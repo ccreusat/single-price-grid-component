@@ -172,12 +172,10 @@ a {
 	}
 	@media only screen and (min-width: 55em) {
 		& {
-			width: 50%;
 			max-width: 635px;
 			margin: 0 auto;
 			display: grid;
 			grid-template-columns: repeat(2, 1fr);
-			// grid-template-rows: 214px 260px;
 		}
 		& > section {
 			padding: 2.4em 2.4em 1.875em;
