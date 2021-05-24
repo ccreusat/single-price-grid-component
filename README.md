@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Solution here](https://www.frontendmentor.io/solutions/single-price-with-css-grid-and-scss-Hef0WLT7X)
--   Live Site URL: [Live site here](https://ccreusat-single-price-grid/images/solution.png)
+-   Live Site URL: [Live site here](https://ccreusat-single-price-grid.vercel.app/)
 
 ## My process
 
